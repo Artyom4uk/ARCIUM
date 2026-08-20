@@ -1,0 +1,1 @@
+{"scripts":{"build":"node scripts/build-check.js","test":"node scripts/build-check.js"},"devDependencies":{},"engines":{"node":">=18"}}
